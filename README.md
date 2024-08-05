@@ -1,1 +1,1 @@
-# Odin-Project
+The website will consist of a main index page which will have links to a few recipes. I will just use some plain html in order to make this project and I'll try to apply the necessarry knowledge required to fill in the gaps from nothing to a finished project.
